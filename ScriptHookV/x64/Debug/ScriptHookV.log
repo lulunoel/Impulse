@@ -1,0 +1,24 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+C:\Users\skide\Desktop\Opposition\Impulse\VIP NO AUTH RELEASE\ScriptHookV\src\dllmain.cpp(85,58): warning C4312: 'type cast': conversion from 'unsigned int' to 'HMODULE' of greater size
+C:\Users\skide\Desktop\Opposition\Impulse\VIP NO AUTH RELEASE\ScriptHookV\src\dllmain.cpp(92,58): warning C4312: 'type cast': conversion from 'unsigned int' to 'HMODULE' of greater size
+C:\Users\skide\Desktop\Opposition\Impulse\VIP NO AUTH RELEASE\ScriptHookV\src\dllmain.cpp(99,58): warning C4312: 'type cast': conversion from 'unsigned int' to 'HMODULE' of greater size
+C:\Users\skide\Desktop\Opposition\Impulse\VIP NO AUTH RELEASE\ScriptHookV\src\dllmain.cpp(109,58): warning C4312: 'type cast': conversion from 'unsigned int' to 'HMODULE' of greater size
+C:\Users\skide\Desktop\Opposition\Impulse\VIP NO AUTH RELEASE\ScriptHookV\src\dllmain.cpp(116,58): warning C4312: 'type cast': conversion from 'unsigned int' to 'HMODULE' of greater size
+C:\Users\skide\Desktop\Opposition\Impulse\VIP NO AUTH RELEASE\ScriptHookV\src\dllmain.cpp(123,58): warning C4312: 'type cast': conversion from 'unsigned int' to 'HMODULE' of greater size
+C:\Users\skide\Desktop\Opposition\Impulse\VIP NO AUTH RELEASE\ScriptHookV\src\dllmain.cpp(130,58): warning C4312: 'type cast': conversion from 'unsigned int' to 'HMODULE' of greater size
+C:\Users\skide\Desktop\Opposition\Impulse\VIP NO AUTH RELEASE\ScriptHookV\src\dllmain.cpp(137,58): warning C4312: 'type cast': conversion from 'unsigned int' to 'HMODULE' of greater size
+C:\Users\skide\Desktop\Opposition\Impulse\VIP NO AUTH RELEASE\ScriptHookV\src\dllmain.cpp(144,58): warning C4312: 'type cast': conversion from 'unsigned int' to 'HMODULE' of greater size
+C:\Users\skide\Desktop\Opposition\Impulse\VIP NO AUTH RELEASE\ScriptHookV\src\dllmain.cpp(151,58): warning C4312: 'type cast': conversion from 'unsigned int' to 'HMODULE' of greater size
+C:\Users\skide\Desktop\Opposition\Impulse\VIP NO AUTH RELEASE\ScriptHookV\src\dllmain.cpp(158,58): warning C4312: 'type cast': conversion from 'unsigned int' to 'HMODULE' of greater size
+C:\Users\skide\Desktop\Opposition\Impulse\VIP NO AUTH RELEASE\ScriptHookV\src\dllmain.cpp(165,58): warning C4312: 'type cast': conversion from 'unsigned int' to 'HMODULE' of greater size
+C:\Users\skide\Desktop\Opposition\Impulse\VIP NO AUTH RELEASE\ScriptHookV\src\dllmain.cpp(172,58): warning C4312: 'type cast': conversion from 'unsigned int' to 'HMODULE' of greater size
+C:\Users\skide\Desktop\Opposition\Impulse\VIP NO AUTH RELEASE\ScriptHookV\src\dllmain.cpp(180,58): warning C4312: 'type cast': conversion from 'unsigned int' to 'HMODULE' of greater size
+C:\Users\skide\Desktop\Opposition\Impulse\VIP NO AUTH RELEASE\ScriptHookV\src\dllmain.cpp(187,58): warning C4312: 'type cast': conversion from 'unsigned int' to 'HMODULE' of greater size
+C:\Users\skide\Desktop\Opposition\Impulse\VIP NO AUTH RELEASE\ScriptHookV\src\dllmain.cpp(194,58): warning C4312: 'type cast': conversion from 'unsigned int' to 'HMODULE' of greater size
+C:\Users\skide\Desktop\Opposition\Impulse\VIP NO AUTH RELEASE\ScriptHookV\src\dllmain.cpp(201,58): warning C4312: 'type cast': conversion from 'unsigned int' to 'HMODULE' of greater size
+C:\Users\skide\Desktop\Opposition\Impulse\VIP NO AUTH RELEASE\ScriptHookV\src\dllmain.cpp(208,58): warning C4312: 'type cast': conversion from 'unsigned int' to 'HMODULE' of greater size
+C:\Users\skide\Desktop\Opposition\Impulse\VIP NO AUTH RELEASE\ScriptHookV\src\dllmain.cpp(215,58): warning C4312: 'type cast': conversion from 'unsigned int' to 'HMODULE' of greater size
+C:\Users\skide\Desktop\Opposition\Impulse\VIP NO AUTH RELEASE\ScriptHookV\src\dllmain.cpp(222,58): warning C4312: 'type cast': conversion from 'unsigned int' to 'HMODULE' of greater size
+     Creating library C:\Users\skide\Desktop\Opposition\Impulse\VIP NO AUTH RELEASE\x64\Debug\ScriptHookV.lib and object C:\Users\skide\Desktop\Opposition\Impulse\VIP NO AUTH RELEASE\x64\Debug\ScriptHookV.exp
+  ScriptHookV.vcxproj -> C:\Users\skide\Desktop\Opposition\Impulse\VIP NO AUTH RELEASE\x64\Debug\ScriptHookV.dll
